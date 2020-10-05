@@ -3,6 +3,7 @@ Proyecto de Javascript (Acordeón)
 Integrantes:
 
 Fabián Barquero Zúñiga
+
 Kendoll Castro Matarrita
 Año 2020
 
